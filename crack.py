@@ -17,7 +17,7 @@ def crackpass(crypted_pass):
    if flag == 0:
         print('[-] Password Not Found:',crypted_pass)
 
-print("how you want to test/use me")
+
 mode = input('1. pre hashed passwords or\n2. letter based passwords\n(1/2) ')
 while True:
    try:
