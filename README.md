@@ -1,4 +1,4 @@
-### Password Cracker 
+# Password Cracker 
 This will crack all salted hash passwords.
 
 I make this as light weight you can use hardcoded 
